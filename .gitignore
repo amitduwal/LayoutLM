@@ -1,4 +1,7 @@
 data/
+training_data/
+training_annotations/
+testing_data/
 *.json
 
 
