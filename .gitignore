@@ -3,6 +3,7 @@ training_data/
 training_annotations/
 testing_data/
 dataset/
+dataset2/
 *.json
 
 
