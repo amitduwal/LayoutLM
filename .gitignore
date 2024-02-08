@@ -4,6 +4,7 @@ training_annotations/
 testing_data/
 dataset/
 dataset2/
+citizenship_data/
 *.json
 
 
