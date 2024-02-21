@@ -6,6 +6,7 @@ dataset/
 dataset2/
 citizenship_data/
 *.json
+*.zip
 
 
 # Byte-compiled / optimized / DLL files
